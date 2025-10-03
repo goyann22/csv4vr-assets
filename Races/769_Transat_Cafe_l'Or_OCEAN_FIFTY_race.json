@@ -1,358 +1,82 @@
 {
-  "_id": {
-    "race_id": 769,
-    "num": 1
+  "polName": "multi50-11",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
   },
-  "_updatedAt": "2025-10-01T17:13:53.189Z",
-  "boat": {
-    "assetBundle": "multi50",
-    "defaultSkin": "multi50_VR_grey",
-    "idx": 7,
-    "label": "Ocean Fifty",
-    "name": "Multi 50",
-    "polar_id": 11,
-    "stats": {
-      "length": 15.24,
-      "width": 15.24,
-      "airDraught": 23.77,
-      "draught": 3.5,
-      "weight": 4200,
-      "upwindSails": 180,
-      "downwindSails": 258
-    },
-    "type": "multi50"
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
   },
-  "checkpoints": [
-    {
-      "id": 8,
-      "group": 1,
-      "name": "",
-      "start": {
-        "lat": 49.692432001895,
-        "lon": -1.2688298209128
-      },
-      "end": {
-        "lat": 50.724460200137,
-        "lon": -0.78919340929891
-      },
-      "engine": true,
-      "display": "none",
-      "ranking": false,
-      "side": "port"
-    },
-    {
-      "id": 10,
-      "group": 2,
-      "name": "",
-      "start": {
-        "lat": 49.715229792012,
-        "lon": -1.9301657233568
-      },
-      "end": {
-        "lat": 50.602375788106,
-        "lon": -2.4757307156359
-      },
-      "engine": true,
-      "display": "none",
-      "ranking": false,
-      "side": "port"
-    },
-    {
-      "id": 2,
-      "group": 3,
-      "name": "",
-      "start": {
-        "lat": 53.266443323893,
-        "lon": -56.082163278563
-      },
-      "end": {
-        "lat": 48.527731013102,
-        "lon": -4.7311133917044
-      },
-      "engine": true,
-      "display": "none",
-      "ranking": false,
-      "side": "stbd"
-    },
-    {
-      "id": 3,
-      "group": 4,
-      "name": "",
-      "start": {
-        "lat": 39.851423935182,
-        "lon": -74.24629944425
-      },
-      "end": {
-        "lat": 43.050162033326,
-        "lon": -9.2946779495103
-      },
-      "engine": true,
-      "display": "none",
-      "ranking": false,
-      "side": "stbd"
-    },
-    {
-      "id": 4,
-      "group": 5,
-      "name": "Sal Island",
-      "start": {
-        "lat": 16.716457758835,
-        "lon": -22.929758461306
-      },
-      "end": {
-        "lat": 14.742131007048,
-        "lon": -17.512788515387
-      },
-      "engine": true,
-      "display": "buoy",
-      "ranking": true,
-      "side": "stbd"
-    },
-    {
-      "id": 9,
-      "group": 6,
-      "name": "",
-      "start": {
-        "lat": 10.626752722555,
-        "lon": -63.581701175291
-      },
-      "end": {
-        "lat": 14.396436560446,
-        "lon": -60.873050430192
-      },
-      "engine": true,
-      "display": "none",
-      "ranking": false,
-      "side": "port"
-    },
-    {
-      "id": 11,
-      "group": 6,
-      "name": "",
-      "start": {
-        "lat": 14.523459599319,
-        "lon": -60.923876986115
-      },
-      "end": {
-        "lat": 14.593497441115,
-        "lon": -60.930098546201
-      },
-      "engine": false,
-      "display": "buoy",
-      "ranking": false,
-      "side": "stbd"
-    },
-    {
-      "id": 5,
-      "group": 7,
-      "name": "",
-      "start": {
-        "lat": 14.442863962188,
-        "lon": -61.039105403779
-      },
-      "end": {
-        "lat": 14.472812494506,
-        "lon": -61.039799373526
-      },
-      "engine": true,
-      "display": "buoy",
-      "ranking": false,
-      "side": "port"
-    },
-    {
-      "id": 6,
-      "group": 8,
-      "name": "",
-      "start": {
-        "lat": 14.507742661543,
-        "lon": -61.095154240593
-      },
-      "end": {
-        "lat": 17.309771317548,
-        "lon": -88.718684765636
-      },
-      "engine": true,
-      "display": "buoy",
-      "ranking": false,
-      "side": "stbd"
-    },
-    {
-      "id": 7,
-      "group": 9,
-      "name": "",
-      "start": {
-        "lat": 14.600002925902,
-        "lon": -61.081757822251
-      },
-      "end": {
-        "lat": 14.56120745471,
-        "lon": -61.052087492541
-      },
-      "engine": true,
-      "display": "gate",
-      "ranking": false,
-      "side": "port"
-    }
-  ],
-  "close": {
-    "date": 1764612000000
+  "map": {
+    "lat0": 6,
+    "extlat": 45,
+    "lon0": -63,
+    "extlong": 65
   },
-  "course": [
-    {
-      "lat": 49.4641,
-      "lon": 0.0608528
-    },
-    {
-      "lat": 50.289,
-      "lon": -1.09662
-    },
-    {
-      "lat": 50.0942,
-      "lon": -2.18865
-    },
-    {
-      "lat": 48.3543,
-      "lon": -11.2522
-    },
-    {
-      "lat": 34.5553,
-      "lon": -14.4546
-    },
-    {
-      "lat": 26.9099,
-      "lon": -15.815
-    },
-    {
-      "lat": 15.7307,
-      "lon": -21.438
-    },
-    {
-      "lat": 8.41807,
-      "lon": -25.0809
-    },
-    {
-      "lat": 14.3521,
-      "lon": -60.8587
-    },
-    {
-      "lat": 14.3712,
-      "lon": -60.939
-    },
-    {
-      "lat": 14.4455,
-      "lon": -60.986
-    },
-    {
-      "lat": 14.4692,
-      "lon": -61.0058
-    },
-    {
-      "lat": 14.4418,
-      "lon": -61.0821
-    },
-    {
-      "lat": 14.4164,
-      "lon": -61.1724
-    },
-    {
-      "lat": 14.5844,
-      "lon": -61.0684
-    }
-  ],
-  "defaultMapPreset": "default",
-  "displayOrder": 50,
-  "end": {
-    "date": 1764180000000,
-    "lat": 14.58835,
-    "lon": -61.06124,
-    "name": "Fort-de-France",
-    "radius": 0,
-    "countryCode": "FRA",
-    "countryFlag": "FR"
-  },
-  "freeCredits": 1800,
-  "ice_limits": {
-    "maxLat": 90,
-    "minLat": -90,
-    "north": [],
-    "south": [
-      {
-        "lat": -90,
-        "lon": -180
-      },
-      {
-        "lat": -90,
-        "lon": -90
-      },
-      {
-        "lat": -90,
-        "lon": 0
-      },
-      {
-        "lat": -90,
-        "lon": 90
-      },
-      {
-        "lat": -90,
-        "lon": 180
-      }
-    ]
-  },
-  "lastUpdate": 1758895001030,
-  "mapPresets": [
-    "default",
-    "satellite",
-    "vro1",
-    "old",
-    "imray",
-    "navionics"
-  ],
-  "name": "Transat Café l'Or OCEAN FIFTY",
-  "open": {
-    "date": 1758893404217
-  },
-  "optionPrices": {
-    "foil": 1660,
-    "winch": 750,
-    "radio": 170,
-    "skin": 1250,
-    "hull": 490,
-    "reach": 1190,
-    "heavy": 840,
-    "light": 1050,
-    "comfortLoungePug": 650,
-    "magicFurler": 950,
-    "vrtexJacket": 850
-  },
-  "pilotBoatCredits": 1000,
-  "priceLevel": 2,
-  "race": {
-    "name": "Transat Café l'Or Le Havre Normandie - OCEAN FIFTY",
-    "type": "leg"
-  },
-  "stamina": true,
-  "start": {
-    "date": 1761483900000,
-    "heading": 317,
+  "depart": {
     "lat": 49.46408,
     "lon": 0.06085281,
-    "name": "Le Havre",
-    "countryCode": "FRA",
-    "countryFlag": "FR"
+    "timeUTC": "2025,10,26,13,5,0"
   },
-  "status": "opened",
-  "syncAWS": "Yes",
-  "vsrLevel": 1,
-  "estimatedLength": 4800,
-  "estimatedTime": 20,
-  "fineWinds": true,
-  "overrideLoadingScreen": {},
-  "raceOfTheMoment": {
-    "enabled": true,
-    "img": "https://static.virtualregatta.com/offshore/images/race-of-the-moment/NGame-ROTM-banner%20(3)_kmm4.png"
+  "target": {
+    "lat": 14.600002925902,
+    "lon": -61.081757822251,
+    "lat1": 14.56120745471,
+    "lon1": -61.052087492541,
+    "radius": 0.0,
+    "sens": -1
   },
-  "schedule": "validated",
-  "specialIcons": {
-    "raceLogo": true
-  }
+  "doors": [
+    {
+      "id": 54,
+      "lat": 16.716457758835,
+      "lon": -22.929758461306,
+      "lat1": 15.00428124573694,
+      "lon1": -18.232051404879922,
+      "sens": 1,
+      "corner": false,
+      "pass": false
+    },
+    {
+      "id": 69,
+      "lat": 10.626752722555,
+      "lon": -63.581701175291,
+      "lat1": 14.396436560446,
+      "lon1": -60.873050430192,
+      "sens": -1,
+      "corner": false,
+      "pass": false
+    },
+    {
+      "id": 75,
+      "lat": 14.442863962188,
+      "lon": -61.039105403779,
+      "lat1": 14.472812494506,
+      "lon1": -61.039799373526,
+      "sens": -1,
+      "corner": false,
+      "pass": false
+    },
+    {
+      "id": 86,
+      "lat": 14.507742661543,
+      "lon": -61.095154240593,
+      "lat1": 15.01233483599375,
+      "lon1": -66.06962775419049,
+      "sens": 1,
+      "corner": false,
+      "pass": false
+    }
+  ],
+  "ZNo": []
 }

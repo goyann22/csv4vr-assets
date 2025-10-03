@@ -1,250 +1,68 @@
 {
-  "_id": {
-    "race_id": 775,
-    "num": 3
+  "polName": "figaro3-2",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
   },
-  "_updatedAt": "2025-09-19T12:31:09.949Z",
-  "boat": {
-    "assetBundle": "figaro",
-    "defaultSkin": "figaro_VR_grey",
-    "idx": 2,
-    "label": "Figaro",
-    "name": "Figaro",
-    "polar_id": 2,
-    "stats": {
-      "length": 10.11,
-      "width": 3.43,
-      "airDraught": 15.55,
-      "draught": 2.15,
-      "weight": 3050,
-      "upwindSails": 68,
-      "downwindSails": 123
-    },
-    "type": "figaro2"
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
   },
-  "checkpoints": [
+  "map": {
+    "lat0": 40,
+    "extlat": 11,
+    "lon0": -12,
+    "extlong": 13
+  },
+  "depart": {
+    "lat": 42.25474,
+    "lon": -8.902512,
+    "timeUTC": "2025,9,21,15,0,0"
+  },
+  "target": {
+    "lat": 49.58789659974,
+    "lon": -1.2628011859921,
+    "lat1": 49.605406060189,
+    "lon1": -1.2310598959362,
+    "radius": 0.0,
+    "sens": -1
+  },
+  "doors": [
     {
-      "id": 3,
-      "group": 1,
-      "name": "Paprec",
-      "start": {
-        "lat": 43.051939448379,
-        "lon": -9.2968920871608
-      },
-      "end": {
-        "lat": 58.865213831924,
-        "lon": -64.166440724301
-      },
-      "engine": true,
-      "display": "buoy",
-      "ranking": true,
-      "side": "stbd"
+      "id": 13,
+      "lat": 43.051939448379,
+      "lon": -9.2968920871608,
+      "lat1": 44.43657216868108,
+      "lon1": -14.101347543283673,
+      "sens": 1,
+      "corner": false,
+      "pass": false
     },
     {
-      "id": 1,
-      "group": 2,
-      "name": "Seiko Prospex",
-      "start": {
-        "lat": 48.042,
-        "lon": -5.101
-      },
-      "end": {
-        "lat": 68.141374432537,
-        "lon": -32.611571657697
-      },
-      "engine": true,
-      "display": "buoy",
-      "ranking": true,
-      "side": "stbd"
-    },
-    {
-      "id": 4,
-      "group": 3,
-      "name": "Landunvez",
-      "start": {
-        "lat": 50.045605683238,
-        "lon": -5.1119684275107
-      },
-      "end": {
-        "lat": 48.543053650767,
-        "lon": -4.7534971673475
-      },
-      "engine": true,
-      "display": "none",
-      "ranking": false,
-      "side": "port"
-    },
-    {
-      "id": 5,
-      "group": 4,
-      "name": "Goury",
-      "start": {
-        "lat": 50.715886164615,
-        "lon": -1.9016665128877
-      },
-      "end": {
-        "lat": 49.725228358219,
-        "lon": -1.943773020449
-      },
-      "engine": true,
-      "display": "none",
-      "ranking": false,
-      "side": "port"
-    },
-    {
-      "id": 6,
-      "group": 5,
-      "name": "Gatteville",
-      "start": {
-        "lat": 50.733193044058,
-        "lon": 0.23602862437554
-      },
-      "end": {
-        "lat": 49.695549684636,
-        "lon": -1.2654826664825
-      },
-      "engine": true,
-      "display": "none",
-      "ranking": false,
-      "side": "port"
-    },
-    {
-      "id": 2,
-      "group": 6,
-      "name": "Saint Vaast la Hougue",
-      "start": {
-        "lat": 49.58789659974,
-        "lon": -1.2628011859921
-      },
-      "end": {
-        "lat": 49.605406060189,
-        "lon": -1.2310598959362
-      },
-      "engine": true,
-      "display": "gate",
-      "ranking": false,
-      "side": "port"
+      "id": 21,
+      "lat": 48.042,
+      "lon": -5.101,
+      "lat1": 50.99165196979763,
+      "lon1": -9.138270520669746,
+      "sens": 1,
+      "corner": false,
+      "pass": false
     }
   ],
-  "close": {
-    "date": 1759496400000
-  },
-  "course": [
+  "ZNo": [
     {
-      "lat": 42.2547,
-      "lon": -8.90251
-    },
-    {
-      "lat": 42.7669,
-      "lon": -10.8322
-    },
-    {
-      "lat": 48.6078,
-      "lon": -5.06148
-    },
-    {
-      "lat": 49.623,
-      "lon": -3.93601
-    },
-    {
-      "lat": 49.8871,
-      "lon": -1.31266
-    },
-    {
-      "lat": 49.9032,
-      "lon": -0.974171
-    },
-    {
-      "lat": 49.6075,
-      "lon": -1.1783
-    },
-    {
-      "lat": 49.5783,
-      "lon": -1.20087
-    },
-    {
-      "lat": 49.5982,
-      "lon": -1.24625
-    }
-  ],
-  "defaultMapPreset": "default",
-  "displayOrder": 20,
-  "end": {
-    "date": 1759237200000,
-    "lat": 49.60097,
-    "lon": -1.249332,
-    "name": "Saint-Vaast-La-Hougue",
-    "radius": 0,
-    "countryCode": "FRA",
-    "countryFlag": "FR"
-  },
-  "estimatedLength": 630,
-  "estimatedTime": 7,
-  "freeCredits": 1200,
-  "ice_limits": {
-    "maxLat": 90,
-    "minLat": -90,
-    "north": [],
-    "south": [
-      {
-        "lat": -90,
-        "lon": -180
-      },
-      {
-        "lat": -90,
-        "lon": -90
-      },
-      {
-        "lat": -90,
-        "lon": 0
-      },
-      {
-        "lat": -90,
-        "lon": 90
-      },
-      {
-        "lat": -90,
-        "lon": 180
-      }
-    ]
-  },
-  "lastUpdate": 1757323043431,
-  "mapPresets": [
-    "default",
-    "satellite",
-    "vro1",
-    "old",
-    "imray",
-    "navionics"
-  ],
-  "name": "La Solitaire du Figaro Etape 3",
-  "open": {
-    "date": 1757588404544
-  },
-  "optionPrices": {
-    "foil": 1010,
-    "winch": 450,
-    "radio": 100,
-    "skin": 750,
-    "hull": 290,
-    "reach": 710,
-    "heavy": 500,
-    "light": 630,
-    "comfortLoungePug": 390,
-    "magicFurler": 570,
-    "vrtexJacket": 510
-  },
-  "pilotBoatCredits": 600,
-  "priceLevel": 4,
-  "race": {
-    "name": "La Solitaire du Figaro ",
-    "type": "leg"
-  },
-  "restrictedZones": [
-    {
-      "name": "FFVoile-TSS Ouessant",
-      "slowDownRate": 0.3,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 49.03417,
           "lon": -5.61167
@@ -273,18 +91,12 @@
           "lat": 48.94,
           "lon": -5.86
         }
-      ],
-      "bbox": [
-        48.48917,
-        -6.05167,
-        49.03417,
-        -5.1975
       ]
     },
     {
-      "name": "FFVoile-TSS South Scilly",
-      "slowDownRate": 0.3,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 49.7675,
           "lon": -6.27583
@@ -301,18 +113,12 @@
           "lat": 49.76717,
           "lon": -6.4925
         }
-      ],
-      "bbox": [
-        49.59233,
-        -6.56833,
-        49.7675,
-        -6.27333
       ]
     },
     {
-      "name": "FFVoile-TSS West Scilly",
-      "slowDownRate": 0.3,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 50.01783,
           "lon": -6.54583
@@ -329,18 +135,12 @@
           "lat": 50.06583,
           "lon": -6.8075
         }
-      ],
-      "bbox": [
-        49.87167,
-        -6.895,
-        50.06583,
-        -6.54583
       ]
     },
     {
-      "name": "TSS Seven Stones Spécial NCR",
-      "slowDownRate": 0.3,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 50.13333,
           "lon": -5.825
@@ -357,18 +157,12 @@
           "lat": 50.13333,
           "lon": -6.083
         }
-      ],
-      "bbox": [
-        50.01617,
-        -6.08333,
-        50.13333,
-        -5.825
       ]
     },
     {
-      "name": "FFVoile-TSS The Smalls",
-      "slowDownRate": 0.3,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 51.83733,
           "lon": -5.72833
@@ -385,18 +179,12 @@
           "lat": 51.87417,
           "lon": -5.93833
         }
-      ],
-      "bbox": [
-        51.66667,
-        -6.0335,
-        51.87417,
-        -5.72833
       ]
     },
     {
-      "name": "TSS Tuskar Spécial NCR",
-      "slowDownRate": 0.3,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 52.21223,
           "lon": -5.91158
@@ -413,18 +201,12 @@
           "lat": 52.255,
           "lon": -6.117
         }
-      ],
-      "bbox": [
-        52.10083,
-        -6.15617,
-        52.255,
-        -5.91158
       ]
     },
     {
-      "name": "FFVoile-TSS Fastnet",
-      "slowDownRate": 0.3,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 51.38167,
           "lon": -9.45667
@@ -441,18 +223,12 @@
           "lat": 51.355,
           "lon": -9.61167
         }
-      ],
-      "bbox": [
-        51.25667,
-        -9.61167,
-        51.38167,
-        -9.41
       ]
     },
     {
-      "name": "TSS Pas de Calais Spécial NCR",
-      "slowDownRate": 0.3,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 50.86833,
           "lon": 1.03667
@@ -477,18 +253,12 @@
           "lat": 50.65167,
           "lon": 0.54333
         }
-      ],
-      "bbox": [
-        50.27083,
-        -0.065,
-        50.86833,
-        1.36833
       ]
     },
     {
-      "name": "ZI Parc éolien du Calvados",
-      "slowDownRate": 0.05,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 49.42333,
           "lon": -0.40667
@@ -517,18 +287,12 @@
           "lat": 49.47833,
           "lon": -0.4535
         }
-      ],
-      "bbox": [
-        49.42333,
-        -0.64833,
-        49.52333,
-        -0.40667
       ]
     },
     {
-      "name": "FFVoile-TSS Les Casquets",
-      "slowDownRate": 0.3,
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 50.14417,
           "lon": -2.46833
@@ -545,16 +309,12 @@
           "lat": 50.05667,
           "lon": -2.95667
         }
-      ],
-      "bbox": [
-        49.76833,
-        -2.95667,
-        50.14417,
-        -2.35167
       ]
     },
     {
-      "vertices": [
+      "type": "ZX",
+      "active": 1,
+      "Pts": [
         {
           "lat": 43.573316210937,
           "lon": -10.546691894531
@@ -579,39 +339,7 @@
           "lat": 43.31821328125,
           "lon": -10.651062011719
         }
-      ],
-      "bbox": [
-        42.769226074219,
-        -10.670288085938,
-        43.573316210937,
-        -10.073974609375
       ]
     }
-  ],
-  "schedule": "validated",
-  "stamina": true,
-  "start": {
-    "date": 1758466800000,
-    "heading": 291,
-    "lat": 42.25474,
-    "lon": -8.902512,
-    "name": "Vigo",
-    "countryCode": "ESP",
-    "countryFlag": "ES"
-  },
-  "status": "opened",
-  "syncAWS": "Yes",
-  "vsrLevel": 3,
-  "fineWinds": true,
-  "overrideLoadingScreen": {},
-  "raceOfTheMoment": {
-    "enabled": false,
-    "img": "https://static.virtualregatta.com/offshore/images/race-of-the-moment/ROTM_SdF-Leg3_vd9y.png"
-  },
-  "specialIcons": {
-    "raceLogo": true
-  },
-  "hasCode": true,
-  "sponsorLogo": "https://static.virtualregatta.com/offshore/sponsor/3d/BANQUE_POPULAIRE_2.png?t=1744020512",
-  "sponsorURL": "http://click.virtualregatta.com/?li=5505"
+  ]
 }
