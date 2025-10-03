@@ -1,0 +1,232 @@
+{
+  "_id": {
+    "race_id": 753,
+    "num": 1
+  },
+  "_updatedAt": "2025-09-26T15:04:36.378Z",
+  "boat": {
+    "assetBundle": "multi",
+    "defaultSkin": "ultime_crew_VR_grey",
+    "idx": 14,
+    "label": "Ultim Crew",
+    "name": "Ultim.",
+    "polar_id": 9,
+    "sailSponsor": "Incidence",
+    "stats": {
+      "length": 32,
+      "width": 23,
+      "airDraught": 37,
+      "draught": 4.5,
+      "weight": 15500,
+      "upwindSails": 450,
+      "downwindSails": 600
+    },
+    "type": "ultime_crew"
+  },
+  "checkpoints": [
+    {
+      "id": 3,
+      "group": 1,
+      "name": "Biscay",
+      "start": {
+        "lat": 43.054221749477,
+        "lon": -9.2998206652749
+      },
+      "end": {
+        "lat": 45.31671869772,
+        "lon": -61.01897065174
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "port"
+    },
+    {
+      "id": 4,
+      "group": 2,
+      "name": "",
+      "start": {
+        "lat": 14.742361963644,
+        "lon": -17.527442721892
+      },
+      "end": {
+        "lat": 1.6914624580291,
+        "lon": -49.963055748444
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "port"
+    },
+    {
+      "id": 1,
+      "group": 3,
+      "name": "Equator",
+      "start": {
+        "lat": 0.0066441568861535,
+        "lon": -51.058774683822
+      },
+      "end": {
+        "lat": 0.0037260033018782,
+        "lon": 9.3484989155136
+      },
+      "engine": true,
+      "display": "gate",
+      "ranking": true,
+      "side": "stbd"
+    },
+    {
+      "id": 2,
+      "group": 4,
+      "name": "Aguillas",
+      "start": {
+        "lat": -34.835220746314,
+        "lon": 19.989602993975
+      },
+      "end": {
+        "lat": -70.838436763985,
+        "lon": 20.052364465165
+      },
+      "engine": true,
+      "display": "gate",
+      "ranking": true,
+      "side": "port"
+    }
+  ],
+  "close": {
+    "date": 1763233200000
+  },
+  "course": [
+    {
+      "lat": 47.6924,
+      "lon": -3.38627
+    },
+    {
+      "lat": 38.4125,
+      "lon": -41.2483
+    },
+    {
+      "lat": -0.238952,
+      "lon": -32.5073
+    },
+    {
+      "lat": -39.081,
+      "lon": -21.123
+    },
+    {
+      "lat": -38.87,
+      "lon": 26.4282
+    },
+    {
+      "lat": -37.7027,
+      "lon": 51.9323
+    },
+    {
+      "lat": -20.2934,
+      "lon": 57.2654
+    },
+    {
+      "lat": -20.1511,
+      "lon": 57.3068
+    },
+    {
+      "lat": -20.1384,
+      "lon": 57.4117
+    }
+  ],
+  "defaultMapPreset": "satellite",
+  "displayOrder": 70,
+  "end": {
+    "date": 1763233200000,
+    "lat": -20.15875,
+    "lon": 57.49755,
+    "name": "Port Louis",
+    "radius": 5,
+    "countryCode": "MRI",
+    "countryFlag": "MU"
+  },
+  "estimatedLength": 9700,
+  "estimatedTime": 26,
+  "freeCredits": 1400,
+  "ice_limits": {
+    "maxLat": 90,
+    "minLat": -90,
+    "north": [],
+    "south": [
+      {
+        "lat": -90,
+        "lon": -180
+      },
+      {
+        "lat": -90,
+        "lon": -90
+      },
+      {
+        "lat": -90,
+        "lon": 0
+      },
+      {
+        "lat": -90,
+        "lon": 90
+      },
+      {
+        "lat": -90,
+        "lon": 180
+      }
+    ]
+  },
+  "lastUpdate": 1758899072534,
+  "mapPresets": [
+    "default",
+    "satellite",
+    "vro1",
+    "old",
+    "imray",
+    "navionics"
+  ],
+  "name": "La Mauricienne",
+  "open": {
+    "date": 1758801604478
+  },
+  "optionPrices": {
+    "foil": 1340,
+    "winch": 600,
+    "radio": 130,
+    "skin": 1000,
+    "hull": 390,
+    "reach": 950,
+    "heavy": 670,
+    "light": 840,
+    "comfortLoungePug": 520,
+    "magicFurler": 760,
+    "vrtexJacket": 680
+  },
+  "priceLevel": 3,
+  "race": {
+    "name": "La Mauricienne",
+    "type": "record"
+  },
+  "schedule": "validated",
+  "stamina": true,
+  "start": {
+    "date": 1758801600000,
+    "heading": 250,
+    "lat": 47.69244,
+    "lon": -3.386274,
+    "name": "Lorient",
+    "countryCode": "FRA",
+    "countryFlag": "FR"
+  },
+  "status": "started",
+  "syncAWS": "Yes",
+  "vsrLevel": 2,
+  "fineWinds": true,
+  "overrideLoadingScreen": {},
+  "raceOfTheMoment": {
+    "enabled": false,
+    "img": "https://static.virtualregatta.com/offshore/images/race-of-the-moment/race-of-the-moment-Maurice-Lorient_zjis.png"
+  },
+  "specialIcons": {
+    "raceLogo": true
+  }
+}

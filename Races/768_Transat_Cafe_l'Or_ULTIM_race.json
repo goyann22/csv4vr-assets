@@ -1,0 +1,376 @@
+{
+  "_id": {
+    "race_id": 768,
+    "num": 1
+  },
+  "_updatedAt": "2025-10-01T17:00:26.843Z",
+  "boat": {
+    "assetBundle": "ultimbp11",
+    "defaultSkin": "ultimbp11_VR_grey",
+    "idx": 18,
+    "label": "Ultim BP XI",
+    "name": "Ultim BP 11",
+    "polar_id": 21,
+    "stats": {
+      "length": 32,
+      "width": 23,
+      "airDraught": 35,
+      "draught": 4.5,
+      "weight": 16000,
+      "upwindSails": 430,
+      "downwindSails": 650
+    },
+    "type": "ultimbp11"
+  },
+  "checkpoints": [
+    {
+      "id": 7,
+      "group": 1,
+      "name": "",
+      "start": {
+        "lat": 49.695424929193,
+        "lon": -1.2652126468526
+      },
+      "end": {
+        "lat": 50.723333254389,
+        "lon": -0.79135153225477
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "port"
+    },
+    {
+      "id": 9,
+      "group": 2,
+      "name": "",
+      "start": {
+        "lat": 49.702615378532,
+        "lon": -1.9072780060234
+      },
+      "end": {
+        "lat": 50.603494284782,
+        "lon": -2.4753800158747
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "port"
+    },
+    {
+      "id": 2,
+      "group": 3,
+      "name": "",
+      "start": {
+        "lat": 53.219457275382,
+        "lon": -55.973010874689
+      },
+      "end": {
+        "lat": 48.539281494132,
+        "lon": -4.7419415115621
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 3,
+      "group": 4,
+      "name": "",
+      "start": {
+        "lat": 41.739991657802,
+        "lon": -70.904676759073
+      },
+      "end": {
+        "lat": 43.264344685146,
+        "lon": -8.9054028226584
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 8,
+      "group": 5,
+      "name": "",
+      "start": {
+        "lat": 20.78316150925,
+        "lon": -17.052129943324
+      },
+      "end": {
+        "lat": 26.814870970573,
+        "lon": -80.210569921934
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "port"
+    },
+    {
+      "id": 4,
+      "group": 6,
+      "name": "Ascension",
+      "start": {
+        "lat": -7.9456625249322,
+        "lon": -14.366065005679
+      },
+      "end": {
+        "lat": -18.431227278169,
+        "lon": 12.059955406925
+      },
+      "engine": true,
+      "display": "buoy",
+      "ranking": true,
+      "side": "stbd"
+    },
+    {
+      "id": 10,
+      "group": 7,
+      "name": "",
+      "start": {
+        "lat": 14.396486841263,
+        "lon": -60.87489303273
+      },
+      "end": {
+        "lat": 10.663366876664,
+        "lon": -62.715855521381
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 11,
+      "group": 7,
+      "name": "",
+      "start": {
+        "lat": 14.537638757248,
+        "lon": -60.921512831226
+      },
+      "end": {
+        "lat": 14.580210778733,
+        "lon": -60.923121695279
+      },
+      "engine": false,
+      "display": "buoy",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 12,
+      "group": 8,
+      "name": "",
+      "start": {
+        "lat": 14.4433,
+        "lon": -61.0383
+      },
+      "end": {
+        "lat": 14.473088473934,
+        "lon": -61.039590626529
+      },
+      "engine": true,
+      "display": "buoy",
+      "ranking": false,
+      "side": "port"
+    },
+    {
+      "id": 6,
+      "group": 9,
+      "name": "",
+      "start": {
+        "lat": 14.492686262128,
+        "lon": -61.088262853167
+      },
+      "end": {
+        "lat": 14.138886280744,
+        "lon": -83.631162007871
+      },
+      "engine": true,
+      "display": "buoy",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 5,
+      "group": 10,
+      "name": "",
+      "start": {
+        "lat": 14.600155238102,
+        "lon": -61.082221298151
+      },
+      "end": {
+        "lat": 14.56084478278,
+        "lon": -61.05081408306
+      },
+      "engine": true,
+      "display": "gate",
+      "ranking": false,
+      "side": "port"
+    }
+  ],
+  "close": {
+    "date": 1764612000000
+  },
+  "course": [
+    {
+      "lat": 49.4395,
+      "lon": 0.0605408
+    },
+    {
+      "lat": 51.0219,
+      "lon": -3.34403
+    },
+    {
+      "lat": 48.9157,
+      "lon": -5.84202
+    },
+    {
+      "lat": 28.1694,
+      "lon": -30.1671
+    },
+    {
+      "lat": 1.91721,
+      "lon": -14.8865
+    },
+    {
+      "lat": -26.012,
+      "lon": -0.771906
+    },
+    {
+      "lat": 14.2537,
+      "lon": -59.7383
+    },
+    {
+      "lat": 14.4382,
+      "lon": -60.0495
+    },
+    {
+      "lat": 14.3868,
+      "lon": -60.6882
+    },
+    {
+      "lat": 14.3584,
+      "lon": -60.8719
+    },
+    {
+      "lat": 14.4175,
+      "lon": -60.9329
+    },
+    {
+      "lat": 14.4571,
+      "lon": -60.9648
+    },
+    {
+      "lat": 14.445,
+      "lon": -61.0853
+    },
+    {
+      "lat": 14.4375,
+      "lon": -61.1987
+    },
+    {
+      "lat": 14.5878,
+      "lon": -61.071
+    }
+  ],
+  "defaultMapPreset": "default",
+  "displayOrder": 20,
+  "end": {
+    "date": 1764180000000,
+    "lat": 14.59666,
+    "lon": -61.07168,
+    "name": "Fort-de-France",
+    "radius": 0,
+    "countryCode": "FRA",
+    "countryFlag": "FR"
+  },
+  "freeCredits": 1800,
+  "ice_limits": {
+    "maxLat": 90,
+    "minLat": -90,
+    "north": [],
+    "south": [
+      {
+        "lat": -90,
+        "lon": -180
+      },
+      {
+        "lat": -90,
+        "lon": -90
+      },
+      {
+        "lat": -90,
+        "lon": 0
+      },
+      {
+        "lat": -90,
+        "lon": 90
+      },
+      {
+        "lat": -90,
+        "lon": 180
+      }
+    ]
+  },
+  "lastUpdate": 1758894964837,
+  "mapPresets": [
+    "default",
+    "satellite",
+    "vro1",
+    "old",
+    "imray",
+    "navionics"
+  ],
+  "name": "Transat Café l'Or ULTIM",
+  "open": {
+    "date": 1758893404217
+  },
+  "optionPrices": {
+    "foil": 1660,
+    "winch": 750,
+    "radio": 170,
+    "skin": 1250,
+    "hull": 490,
+    "reach": 1190,
+    "heavy": 840,
+    "light": 1050,
+    "comfortLoungePug": 650,
+    "magicFurler": 950,
+    "vrtexJacket": 850
+  },
+  "pilotBoatCredits": 1000,
+  "priceLevel": 2,
+  "race": {
+    "name": "Transat Café l'Or Le Havre Normandie - ULTIM",
+    "type": "leg"
+  },
+  "stamina": true,
+  "start": {
+    "date": 1761485400000,
+    "heading": 305,
+    "lat": 49.43951,
+    "lon": 0.06054077,
+    "name": "Le Havre",
+    "countryCode": "FRA",
+    "countryFlag": "FR"
+  },
+  "status": "opened",
+  "syncAWS": "Yes",
+  "vsrLevel": 1,
+  "estimatedLength": 7100,
+  "estimatedTime": 30,
+  "fineWinds": true,
+  "overrideLoadingScreen": {},
+  "raceOfTheMoment": {
+    "enabled": false,
+    "img": "https://static.virtualregatta.com/offshore/images/race-of-the-moment/NGame-ROTM-banner%20(1)_fhmz.png"
+  },
+  "schedule": "validated",
+  "specialIcons": {
+    "raceLogo": true
+  },
+  "hasCode": true
+}

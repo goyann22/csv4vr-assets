@@ -1,0 +1,368 @@
+{
+  "_id": {
+    "race_id": 767,
+    "num": 1
+  },
+  "_updatedAt": "2025-10-01T17:14:30.712Z",
+  "boat": {
+    "assetBundle": "vendeeglobe",
+    "defaultSkin": "imoca_VR_grey",
+    "idx": 4,
+    "label": "Imoca",
+    "name": "Imoca",
+    "options": {
+      "winch": {
+        "nameKey": "_harken",
+        "descKey": "_harken",
+        "thumbnailURL": "thumbnail_winch_harken",
+        "imageURL": "image_winch_harken"
+      }
+    },
+    "polar_id": 4,
+    "sailSponsor": "Incidence",
+    "stats": {
+      "length": 18.28,
+      "width": 5.85,
+      "airDraught": 29,
+      "draught": 4.5,
+      "weight": 8000,
+      "upwindSails": 300,
+      "downwindSails": 600
+    },
+    "type": "imoca"
+  },
+  "checkpoints": [
+    {
+      "id": 1,
+      "group": 1,
+      "name": "",
+      "start": {
+        "lat": 50.721533473009,
+        "lon": -0.7926942260506
+      },
+      "end": {
+        "lat": 49.680385557063,
+        "lon": -1.2752049987246
+      },
+      "engine": true,
+      "display": "buoy",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 10,
+      "group": 2,
+      "name": "",
+      "start": {
+        "lat": 49.726551049978,
+        "lon": -1.941665568647
+      },
+      "end": {
+        "lat": 50.608237866059,
+        "lon": -2.4931840301427
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "port"
+    },
+    {
+      "id": 3,
+      "group": 3,
+      "name": "",
+      "start": {
+        "lat": 53.273544279063,
+        "lon": -56.141872215247
+      },
+      "end": {
+        "lat": 48.50257199554,
+        "lon": -4.7749508986577
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 4,
+      "group": 4,
+      "name": "",
+      "start": {
+        "lat": 41.611869104055,
+        "lon": -71.086229365541
+      },
+      "end": {
+        "lat": 43.054167993215,
+        "lon": -9.2976159108884
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 5,
+      "group": 5,
+      "name": "Archipel des Canaries",
+      "start": {
+        "lat": 28.381687727763,
+        "lon": -14.019336621601
+      },
+      "end": {
+        "lat": 27.688251198269,
+        "lon": -13.156840983774
+      },
+      "engine": true,
+      "display": "buoy",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 6,
+      "group": 6,
+      "name": "",
+      "start": {
+        "lat": 14.396024954285,
+        "lon": -60.870123457948
+      },
+      "end": {
+        "lat": 10.703073751893,
+        "lon": -62.446292434284
+      },
+      "engine": true,
+      "display": "none",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 11,
+      "group": 6,
+      "name": "",
+      "start": {
+        "lat": 14.542065517623,
+        "lon": -60.922538631342
+      },
+      "end": {
+        "lat": 14.694844143111,
+        "lon": -60.989045287175
+      },
+      "engine": true,
+      "display": "buoy",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 7,
+      "group": 7,
+      "name": "Rocher du diamant",
+      "start": {
+        "lat": 14.442634373896,
+        "lon": -61.038979072461
+      },
+      "end": {
+        "lat": 14.458203538222,
+        "lon": -61.045896913538
+      },
+      "engine": true,
+      "display": "buoy",
+      "ranking": false,
+      "side": "port"
+    },
+    {
+      "id": 8,
+      "group": 8,
+      "name": "Ile de la Martinique",
+      "start": {
+        "lat": 14.514077540024,
+        "lon": -61.096017694544
+      },
+      "end": {
+        "lat": 17.942798046023,
+        "lon": -71.277891240821
+      },
+      "engine": true,
+      "display": "buoy",
+      "ranking": false,
+      "side": "stbd"
+    },
+    {
+      "id": 9,
+      "group": 9,
+      "name": "",
+      "start": {
+        "lat": 14.599859582343,
+        "lon": -61.081947002048
+      },
+      "end": {
+        "lat": 14.560892449775,
+        "lon": -61.05157874046
+      },
+      "engine": true,
+      "display": "gate",
+      "ranking": false,
+      "side": "port"
+    }
+  ],
+  "close": {
+    "date": 1764612000000
+  },
+  "course": [
+    {
+      "lat": 49.4481,
+      "lon": 0.0396458
+    },
+    {
+      "lat": 50.3367,
+      "lon": -1.14546
+    },
+    {
+      "lat": 50.2194,
+      "lon": -2.25109
+    },
+    {
+      "lat": 48.6377,
+      "lon": -16.3233
+    },
+    {
+      "lat": 29.3142,
+      "lon": -13.2623
+    },
+    {
+      "lat": 25.0858,
+      "lon": -13.2991
+    },
+    {
+      "lat": 21.1179,
+      "lon": -23.8771
+    },
+    {
+      "lat": 9.76435,
+      "lon": -54.3175
+    },
+    {
+      "lat": 14.2515,
+      "lon": -60.6917
+    },
+    {
+      "lat": 14.4443,
+      "lon": -60.9436
+    },
+    {
+      "lat": 14.4459,
+      "lon": -61.0407
+    },
+    {
+      "lat": 14.4544,
+      "lon": -61.1181
+    },
+    {
+      "lat": 14.5055,
+      "lon": -61.1201
+    },
+    {
+      "lat": 14.5696,
+      "lon": -61.1117
+    },
+    {
+      "lat": 14.5873,
+      "lon": -61.0716
+    }
+  ],
+  "defaultMapPreset": "default",
+  "displayOrder": 30,
+  "end": {
+    "date": 1764180000000,
+    "lat": 14.59455,
+    "lon": -61.06923,
+    "name": "Fort-de-France",
+    "radius": 0,
+    "countryCode": "FRA",
+    "countryFlag": "FR"
+  },
+  "freeCredits": 1800,
+  "ice_limits": {
+    "maxLat": 90,
+    "minLat": -90,
+    "north": [],
+    "south": [
+      {
+        "lat": -90,
+        "lon": -180
+      },
+      {
+        "lat": -90,
+        "lon": -90
+      },
+      {
+        "lat": -90,
+        "lon": 0
+      },
+      {
+        "lat": -90,
+        "lon": 90
+      },
+      {
+        "lat": -90,
+        "lon": 180
+      }
+    ]
+  },
+  "lastUpdate": 1758894943686,
+  "mapPresets": [
+    "default",
+    "satellite",
+    "vro1",
+    "old",
+    "imray",
+    "navionics"
+  ],
+  "name": "Transat Café l'Or IMOCA",
+  "open": {
+    "date": 1758893404217
+  },
+  "optionPrices": {
+    "foil": 1660,
+    "winch": 750,
+    "radio": 170,
+    "skin": 1250,
+    "hull": 490,
+    "reach": 1190,
+    "heavy": 840,
+    "light": 1050,
+    "comfortLoungePug": 650,
+    "magicFurler": 950,
+    "vrtexJacket": 850
+  },
+  "pilotBoatCredits": 1000,
+  "priceLevel": 2,
+  "race": {
+    "name": "Transat Café l'Or Le Havre Normandie - IMOCA",
+    "type": "leg"
+  },
+  "stamina": true,
+  "start": {
+    "date": 1761484800000,
+    "heading": 319,
+    "lat": 49.44812,
+    "lon": 0.03964577,
+    "name": "Le Havre",
+    "countryCode": "FRA",
+    "countryFlag": "FR"
+  },
+  "status": "opened",
+  "syncAWS": "Yes",
+  "vsrLevel": 1,
+  "estimatedLength": 4600,
+  "estimatedTime": 20,
+  "fineWinds": true,
+  "overrideLoadingScreen": {},
+  "raceOfTheMoment": {
+    "enabled": false,
+    "img": "https://static.virtualregatta.com/offshore/images/race-of-the-moment/NGame-ROTM-banner_nryr.png"
+  },
+  "schedule": "validated",
+  "specialIcons": {
+    "raceLogo": true
+  },
+  "hasCode": true
+}

@@ -1,0 +1,41 @@
+{
+ "polName": "class40-3",
+ "eqpt": {
+  "poli": 1,
+  "foil": 1,
+  "winch": 1,
+  "pug": 1,
+  "furler": 1,
+  "jacket": 1
+ },
+ "SailPack": {
+  "Jib": 1,
+  "Spi": 1,
+  "Staysail": 1,
+  "LightJib": 1,
+  "Code0": 1,
+  "HeavyGnk": 1,
+  "LightGnk": 1
+ },
+ "map": {
+  "lat0": -41,
+  "extlat": 60,
+  "lon0": -31,
+  "extlong": 47
+ },
+ "depart": {
+  "lat": 16.90743,
+  "lon": -25.02824,
+  "timeUTC": "2025,10,2,11,2,0"
+ },
+ "target": {
+  "lat": -21.016778290455,
+  "lon": 55.237971692029,
+  "lat1": -20.930077598123,
+  "lon1": 55.283582287044,
+  "radius": 0.0,
+  "sens": 1
+ },
+ "doors": [],
+ "ZNo": []
+}
