@@ -1,0 +1,41 @@
+{
+  "polName": "figaro3-2",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
+  },
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
+  },
+  "map": {
+    "lat0": -38,
+    "extlat": 10,
+    "lon0": 16,
+    "extlong": 17
+  },
+  "depart": {
+    "lat": -33.86774,
+    "lon": 18.37861,
+    "timeUTC": "2025,9,29,10,0,0"
+  },
+  "target": {
+    "lat": -29.768651747073,
+    "lon": 31.063015934239,
+    "lat1": -29.868387007083,
+    "lon1": 31.063667565036,
+    "radius": 0.0,
+    "sens": 1
+  },
+  "doors": [],
+  "ZNo": []
+}
