@@ -46,6 +46,16 @@
       "sens": -1,
       "corner": false,
       "pass": false
+    },
+    {
+      "id": 12,
+      "lat": 28.252127109241,
+      "lon": -16.615494082447,
+      "lat1": 26.20592349596,
+      "lon1": -14.410336877587,
+      "sens": 1,
+      "corner": false,
+      "pass": false
     }
   ],
   "ZNo": []

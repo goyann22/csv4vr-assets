@@ -1,41 +1,41 @@
 {
- "polName": "mini_6_50-5",
- "eqpt": {
-  "poli": 1,
-  "foil": 1,
-  "winch": 1,
-  "pug": 1,
-  "furler": 1,
-  "jacket": 1
- },
- "SailPack": {
-  "Jib": 1,
-  "Spi": 1,
-  "Staysail": 1,
-  "LightJib": 1,
-  "Code0": 1,
-  "HeavyGnk": 1,
-  "LightGnk": 1
- },
- "map": {
-  "lat0": 26,
-  "extlat": 21,
-  "lon0": -21,
-  "extlong": 21
- },
- "depart": {
-  "lat": 46.47486,
-  "lon": -1.794517,
-  "timeUTC": "2025,9,21,13,30,0"
- },
- "target": {
-  "lat": 28.621821889057,
-  "lon": -17.748282070074,
-  "lat1": 28.707652577535,
-  "lon1": -17.746091455151,
-  "radius": 0.0,
-  "sens": -1
- },
- "doors": [],
- "ZNo": []
+  "polName": "mini_6_50-5",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
+  },
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
+  },
+  "map": {
+    "lat0": 26,
+    "extlat": 21,
+    "lon0": -21,
+    "extlong": 21
+  },
+  "depart": {
+    "lat": 46.47486,
+    "lon": -1.794517,
+    "timeUTC": "2025,9,21,13,30,0"
+  },
+  "target": {
+    "lat": 28.621821889057,
+    "lon": -17.748282070074,
+    "lat1": 28.707652577535,
+    "lon1": -17.746091455151,
+    "radius": 0.0,
+    "sens": -1
+  },
+  "doors": [],
+  "ZNo": []
 }
