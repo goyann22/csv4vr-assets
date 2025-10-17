@@ -1,0 +1,41 @@
+{
+  "polName": "mini_6_50-5",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
+  },
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
+  },
+  "map": {
+    "lat0": 14,
+    "extlat": 16,
+    "lon0": -63,
+    "extlong": 47
+  },
+  "depart": {
+    "lat": 28.57877,
+    "lon": -17.63371,
+    "timeUTC": "2025,10,25,11,0,0"
+  },
+  "target": {
+    "lat": 16.24522856904,
+    "lon": -61.287384341716,
+    "lat1": 16.249863426218,
+    "lon1": -61.21164886949,
+    "radius": 0.0,
+    "sens": -1
+  },
+  "doors": [],
+  "ZNo": []
+}
