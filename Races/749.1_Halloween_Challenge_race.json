@@ -1,0 +1,80 @@
+{
+  "polName": "multi50-11",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
+  },
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
+  },
+  "map": {
+    "lat0": 15,
+    "extlat": 28,
+    "lon0": -82,
+    "extlong": 22
+  },
+  "depart": {
+    "lat": 42.51236,
+    "lon": -70.78816,
+    "timeUTC": "2025,10,31,16,0,0"
+  },
+  "target": {
+    "lat": 25.7083,
+    "lon": -80.18319,
+    "radius": 5,
+    "sens": 0
+  },
+  "doors": [
+    {
+      "id": 11,
+      "lat": 32.363430882612,
+      "lon": -64.670633166652,
+      "lat1": 30.11057279284747,
+      "lon1": -44.79792247013698,
+      "sens": 1,
+      "corner": false,
+      "pass": false
+    },
+    {
+      "id": 22,
+      "lat": 18.247700744512,
+      "lon": -65.708152473428,
+      "lat1": 9.3691919164834,
+      "lon1": -60.997905068869,
+      "sens": 1,
+      "corner": false,
+      "pass": false
+    },
+    {
+      "id": 33,
+      "lat": 18.598442552815,
+      "lon": -68.349936136884,
+      "lat1": 18.351293153532,
+      "lon1": -67.203543940701,
+      "sens": -1,
+      "corner": false,
+      "pass": false
+    },
+    {
+      "id": 44,
+      "lat": 23.796717575932,
+      "lon": -77.67452689196,
+      "lat1": 22.593800529633,
+      "lon1": -79.600664687133,
+      "sens": 1,
+      "corner": false,
+      "pass": false
+    }
+  ],
+  "ZNo": []
+}
