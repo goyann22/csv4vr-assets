@@ -20,8 +20,8 @@
   "map": {
     "lat0": 68,
     "extlat": 17,
-    "lon0": 7,
-    "extlong": 22
+    "lon0": -20,
+    "extlong": 70
   },
   "depart": {
     "lat": 70.05716,
