@@ -1,0 +1,41 @@
+{
+  "polName": "supermaxi100-14",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
+  },
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
+  },
+  "map": {
+    "lat0": 0,
+    "extlat": 37,
+    "lon0": 102,
+    "extlong": 39
+  },
+  "depart": {
+    "lat": 34.76565,
+    "lon": 139.2399,
+    "timeUTC": "2025,11,28,14,0,0"
+  },
+  "target": {
+    "lat": 1.315066833589,
+    "lon": 103.97678312789,
+    "lat1": 1.1897540284132,
+    "lon1": 104.02538306321,
+    "radius": 0.0,
+    "sens": 1
+  },
+  "doors": [],
+  "ZNo": []
+}
