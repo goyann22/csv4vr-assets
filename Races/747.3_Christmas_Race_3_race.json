@@ -1,0 +1,62 @@
+{
+  "polName": "UltimBPXI-21",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
+  },
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
+  },
+  "map": {
+    "lat0": 12,
+    "extlat": 49,
+    "lon0": -21,
+    "extlong": 47
+  },
+  "depart": {
+    "lat": 14.2858,
+    "lon": -17.64271,
+    "timeUTC": "2025,12,23,10,0,0"
+  },
+  "target": {
+    "lat": 59.843013989614,
+    "lon": 23.510832692435,
+    "lat1": 59.226739955331,
+    "lon1": 23.51335937172,
+    "radius": 0.0,
+    "sens": -1
+  },
+  "doors": [
+    {
+      "id": 43,
+      "lat": 56.640913092027,
+      "lon": 8.1667903737005,
+      "lat1": 57.981760107407,
+      "lon1": 7.5307734168893,
+      "sens": 1,
+      "corner": false,
+      "pass": false
+    },
+    {
+      "id": 58,
+      "lat": 57.741094381537,
+      "lon": 10.629639945619,
+      "lat1": 59.132753164496,
+      "lon1": 10.950128906813,
+      "sens": 1,
+      "corner": false,
+      "pass": false
+    }
+  ],
+  "ZNo": []
+}

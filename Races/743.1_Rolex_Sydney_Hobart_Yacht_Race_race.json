@@ -1,0 +1,50 @@
+{
+  "polName": "offshoreracer-18",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
+  },
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
+  },
+  "map": {
+    "lat0": -45,
+    "extlat": 13,
+    "lon0": 145,
+    "extlong": 10
+  },
+  "depart": {
+    "lat": -33.8346,
+    "lon": 151.297,
+    "timeUTC": "2025,12,26,2,0,0"
+  },
+  "target": {
+    "lat": -42.98,
+    "lon": 147.337,
+    "radius": 5,
+    "sens": 0
+  },
+  "doors": [
+    {
+      "id": 11,
+      "lat": -43.239523,
+      "lon": 148.00372,
+      "lat1": -51.08224062925828,
+      "lon1": 154.2078944162879,
+      "sens": 1,
+      "corner": false,
+      "pass": false
+    }
+  ],
+  "ZNo": []
+}
