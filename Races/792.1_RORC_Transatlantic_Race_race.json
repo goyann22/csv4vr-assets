@@ -18,10 +18,10 @@
     "LightGnk": 1
   },
   "map": {
-    "lat0": 14,
-    "extlat": 16,
-    "lon0": -63,
-    "extlong": 51
+    "lat0": 3,
+    "extlat": 35,
+    "lon0": -66,
+    "extlong": 57
   },
   "depart": {
     "lat": 28.79667,
