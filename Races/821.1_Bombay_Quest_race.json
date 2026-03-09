@@ -1,0 +1,41 @@
+{
+  "polName": "imoca-4",
+  "eqpt": {
+    "poli": 1,
+    "foil": 1,
+    "winch": 1,
+    "pug": 1,
+    "furler": 1,
+    "jacket": 1
+  },
+  "SailPack": {
+    "Jib": 1,
+    "Spi": 1,
+    "Staysail": 1,
+    "LightJib": 1,
+    "Code0": 1,
+    "HeavyGnk": 1,
+    "LightGnk": 1
+  },
+  "map": {
+    "lat0": -46,
+    "extlat": 70,
+    "lon0": 20,
+    "extlong": 56
+  },
+  "depart": {
+    "lat": -34.04604,
+    "lon": 25.90922,
+    "timeUTC": "2026,2,28,14,0,0"
+  },
+  "target": {
+    "lat": 18.890280979166,
+    "lon": 72.810211613134,
+    "lat1": 18.802776592264,
+    "lon1": 72.870019313324,
+    "radius": 0.0,
+    "sens": -1
+  },
+  "doors": [],
+  "ZNo": []
+}
